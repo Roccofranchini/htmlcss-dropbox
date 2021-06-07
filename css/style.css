@@ -189,7 +189,7 @@ header .header-navbar a {
 
 /* main */
 
-.buisness-plan .text-buisness-plan h2 {
+.business-plan .text-business-plan h2 {
     font-size: 30px;
     font-weight: 700;
     padding-top: 200px;
@@ -213,41 +213,41 @@ header .header-navbar a {
     transform: translateY(27%);
 }
 
-.buisness-plan .text-buisness-plan .fatturazione {
+.business-plan .text-business-plan .fatturazione {
     padding: 40px 0;
 }
 
-.buisness-plan .text-buisness-plan span {
+.business-plan .text-business-plan span {
     padding: 0 20px 0 0;
     font-size: small;
     font-weight: 600;
 }
 
-.col-content .buisnessplan-type {
+.col-content .businessplan-type {
     font-size: 22px;
     font-weight: 700;
     padding-bottom: 20px;
 }
 
-.col-content .buisnessplan-cost {
+.col-content .businessplan-cost {
     font-size: 14px;
     font-weight: 800;
     padding-bottom: 10px;
 }
 
-.col-content .buisnessplan-cost-description {
+.col-content .businessplan-cost-description {
     color: gray;
     font-size: 12px;
 }
 
-.col-content .buisnessplan-description {
+.col-content .businessplan-description {
     list-style-type: none;
     padding: 20px 0;
     font-size: 12px;
     font-weight: 600;
 }
 
-.col-content .buisnessplan-description li {
+.col-content .businessplan-description li {
     padding-bottom: 15px;
 }
 
