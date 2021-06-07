@@ -220,4 +220,5 @@ header .header-navbar a {
 .col-content {
     height: 1000px;
     border: 1px solid rgb(208, 208, 211);
+    border-top: none;
 }
