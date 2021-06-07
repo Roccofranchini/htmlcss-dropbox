@@ -60,10 +60,11 @@ body {
 }
 
 .col-content {
-    height: 1000px;
+    height: 800px;
     border: 1px solid rgb(208, 208, 211);
     border-top: none;
     padding: 30px;
+    margin-bottom: 20px;
     font-size: 12px;
     font-weight: 600;
 }
@@ -257,7 +258,7 @@ header .header-navbar a {
 }
 
 .col-content .businessplan-description li .bruttissimo {
-    transform: translateX(13px);
+    transform: translateX(16px);
 }
 
 .col-content .prova-gratis {
@@ -296,7 +297,7 @@ header .header-navbar a {
 }
 
 .col-content .punti-salienti li .bruttissimo {
-    transform: translateX(13px);
+    transform: translateX(15px);
 }
 
 .col-content .punti-salienti li i {
