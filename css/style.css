@@ -100,6 +100,10 @@ body {
     text-decoration: none;
 }
 
+.relative {
+    position: relative;
+}
+
 /* Header */
 
 header {
@@ -133,7 +137,7 @@ header .header-navbar a {
 }
 
 .header-content {
-    height: 800px;
+    height: 680px;
     background-color: rgb(180, 208, 231);
 }
 
@@ -150,4 +154,10 @@ header .header-navbar a {
 
 .header-content .jumbotron i {
     font-size: 40px;
+}
+
+.header-content .jumbotron img {
+    height: 400px;
+    position: absolute;
+    bottom: -50px;
 }
