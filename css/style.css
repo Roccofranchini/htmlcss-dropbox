@@ -44,6 +44,10 @@ body {
     width: 60%;
 }
 
+.col.w-70 {
+    width: 70%;
+}
+
 .col.w-17 {
     width: 17.5%;
 }
@@ -93,6 +97,7 @@ body {
 
 .btn {
     padding: 10px 20px;
+    text-decoration: none;
 }
 
 /* Header */
@@ -125,4 +130,24 @@ header .header-navbar li {
 header .header-navbar a {
     text-decoration: none;
     /* color: black; */
+}
+
+.header-content {
+    height: 800px;
+    background-color: rgb(180, 208, 231);
+}
+
+.header-content .jumbotron h1 {
+    font-size: 70px;
+    font-weight: 700;
+    padding-top: 80px;
+}
+
+.header-content .jumbotron p {
+    padding: 20px 30px 50px 0;
+    font-weight: 600;
+}
+
+.header-content .jumbotron i {
+    font-size: 40px;
 }
