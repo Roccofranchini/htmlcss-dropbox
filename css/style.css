@@ -56,12 +56,16 @@ body {
     width: 100%;
 }
 
-.col-content.h-800 {
+.h-800 {
     height: 800px;
 }
 
-.col-content.h-150 {
+.h-150 {
     height: 150px;
+}
+
+.h-400 {
+    height: 400px;
 }
 
 .intro-col {
@@ -72,7 +76,6 @@ body {
 }
 
 .col-content {
-    /* height: 800px; */
     border: 1px solid rgb(208, 208, 211);
     border-top: none;
     padding: 30px;
@@ -204,6 +207,8 @@ header .header-navbar a {
 
 /* main */
 
+/* section1 */
+
 .business-plan .text-business-plan h2 {
     font-size: 30px;
     font-weight: 700;
@@ -330,4 +335,41 @@ header .header-navbar a {
 
 .h-150 .w-30 .btn {
     padding: 10px 60px;
+}
+
+/* section2 */
+
+.container-1000 .partner {
+    margin: 40px 0;
+}
+
+.partner .h-400 .partner-image{
+    height: 100%;
+    background-image: url(../img/partner.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.partner .col .partner-text {
+    padding: 40px 60px;
+}
+
+
+.partner .col .partner-text h3 {
+    font-size: 22px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.partner .col .partner-text p {
+    font-size: 13px;
+    line-height: 1.8;
+    padding-bottom: 30px;
+}
+
+.partner .col .partner-text .btn.partner-btn {
+    font-size: 13px;
+    font-weight: 600;
+    border: 1px solid black;
+    padding: 10px 15px;
 }
