@@ -409,3 +409,11 @@ header .header-navbar a {
     border: 1px solid black;
     padding: 10px 15px;
 }
+
+/* section3 */
+
+.container-1000 .operazioni h2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 20px;
+}
