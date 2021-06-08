@@ -415,5 +415,25 @@ header .header-navbar a {
 .container-1000 .operazioni h2 {
     font-size: 30px;
     font-weight: 700;
-    padding-top: 20px;
+    padding: 20px 0 40px 0;
+}
+
+.container-1000 .operazioni .row .col {
+    padding: 30px 20px;
+}
+
+.container-1000 .operazioni .row img {
+    width: 100%;
+}
+
+.container-1000 .operazioni .row .col .operazioni-title {
+    font-size: 22px;
+    font-weight: 700;
+    padding: 15px 15px;
+}
+
+.container-1000 .operazioni .row .col .operazioni-paragraph {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 15px 15px;
 }
