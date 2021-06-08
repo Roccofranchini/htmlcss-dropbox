@@ -474,41 +474,51 @@ header .header-navbar a {
 .partnership .square {
     height: 50%;
     padding: 40px;
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
     
 }
 
 
 #designit {
     background-color: rgb(162, 211, 155);
-    
+    background-image: url(../img/image\ \(5\).png);
 }
 
 #university-florida {
     background-color: rgb(0, 147, 206);
+    background-image: url(../img/image\ \(1\).png);
 }
 
 #asu {
     background-color: rgb(97, 8, 43);
+    background-image: url(../img/image\ \(7\).png);
 }
 
 #topps {
     background-color: rgb(255, 28, 28);
+    background-image: url(../img/image\ \(2\).png);
 }
 
 #bicycle {
     background-color: rgb(213, 0, 31);
+    background-image: url(../img/image.png);
 }
     
 #planet {
     background-color: rgb(13, 36, 129);
+    background-image: url(../img/image\ \(3\).png);
 }
 
 #hearst {
     background-color: rgb(180, 208, 231);
+    background-image: url(../img/image\ \(4\).png);
 }
     
 #clear {
     background-color: rgb(255, 216, 48);
+    background-image: url(../img/image\ \(6\).png);
 }
 
 .partnership .col.w-50 {
@@ -520,7 +530,7 @@ header .header-navbar a {
 }
 
 .partnership .w-50 .partnership-text img { 
-    height: 50px;
+    height: 60px;
     padding-bottom: 20px;
 }
 
@@ -532,7 +542,7 @@ header .header-navbar a {
 }
 
 .partnership .w-50 .partnership-text p {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 600;
     padding-bottom: 80px;
 }
@@ -541,17 +551,24 @@ header .header-navbar a {
 /* section5 */
 
 .porta-dropbox {
-    height: 375px;
+    height: 370px;
     background-color: rgb(180, 208, 231);
 }
 
 .porta-dropbox .container-1000 h2 {
-    font-size: 30px;
-    font-weight: 700;
-    padding: 20px 300px 40px 0;
+    font-size: 35px;
+    font-weight: 800;
+    padding: 150px 250px 40px 0;
+    color: rgb(97, 8, 43);
+}
+
+.porta-dropbox .container-1000 .row .w-30 {
+    padding-top: 170px
 }
 
 .porta-dropbox .container-1000 a {
-
+    padding: 10px 40px;
+    font-weight: 600;
 }
 
+/* section6 */
