@@ -143,6 +143,10 @@ body {
     text-decoration: none;
 }
 
+.btn:hover {
+    filter: brightness(1.5);
+}
+
 .relative {
     position: relative;
 }
