@@ -20,6 +20,8 @@ body {
     margin: 0 auto;
 }
 
+/* col */
+
 .col {
     float: left;
 }
@@ -102,6 +104,8 @@ body {
     clear: both;
 }
 
+/* text */
+
 .text-center {
     text-align: center;
 }
@@ -121,6 +125,8 @@ body {
 .txt-gray {
     color: gray;
 }
+
+/* background */
 
 .bg-white {
     background-color: white;
@@ -151,7 +157,46 @@ body {
     position: relative;
 }
 
-/* Header */
+/* lists */
+
+ul .list-icon {
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+}
+
+.list-icon::before {
+    font-family: 'Font Awesome 5 free';
+    margin-right: 5px;
+}
+
+.list-icon.user::before {
+    content: '\f007';
+}
+
+.list-icon.folder::before {
+    content: '\f07b';
+}
+
+.list-icon.pen::before {
+    content: '\f304';
+}
+
+.list-icon.smile::before {
+    content: '\f118';
+}
+
+.list-icon.check::before {
+    content: '\f00c';
+    color: rgb(0, 97, 255);
+}
+
+
+
+
+
+/* -----------------Header----------------- */
 
 header {
     /* height: 80px;
@@ -267,19 +312,6 @@ header .header-navbar a {
 .col-content .businessplan-description {
     list-style-type: none;
     padding: 20px 0;
-}
-
-.col-content .businessplan-description li {
-    padding-bottom: 15px;
-}
-
-.col-content .businessplan-description li .inline {
-    display: inline-block;
-    
-}
-
-.col-content .businessplan-description li .bruttissimo {
-    transform: translateX(16px);
 }
 
 .col-content .prova-gratis {
