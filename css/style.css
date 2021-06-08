@@ -419,7 +419,8 @@ header .header-navbar a {
 }
 
 .container-1000 .operazioni .row .col {
-    padding: 30px 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .container-1000 .operazioni .row img {
@@ -436,4 +437,15 @@ header .header-navbar a {
     font-size: 13px;
     font-weight: 600;
     padding: 15px 15px;
+}
+
+.container-1000 .operazioni .col.w-50 h2 {
+    margin-right: 60px;
+    padding: 100px 0 20px 0;
+}
+
+.container-1000 .operazioni .col.w-50 a {
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 40px;
 }
