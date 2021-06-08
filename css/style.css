@@ -467,8 +467,7 @@ header .header-navbar a {
     fill: white;
 }
 
-.partnership .square svg {
-    height: 100px;
+
 }
 
 #designit {
@@ -478,5 +477,4 @@ header .header-navbar a {
 
 #university-florida {
     background-color: rgb(0, 97, 255);
-    fill: white;
 }
