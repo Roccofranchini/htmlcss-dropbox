@@ -457,8 +457,8 @@ header .header-navbar a {
 /* section4 */
 
 .partnership {
-    height: 374px;
-    margin: 80px 0;
+    height: 375px;
+    margin-top: 80px;
 }
 
 .partnership .row {
@@ -503,8 +503,6 @@ header .header-navbar a {
     background-color: rgb(13, 36, 129);
 }
 
-
-
 #hearst {
     background-color: rgb(180, 208, 231);
 }
@@ -512,4 +510,48 @@ header .header-navbar a {
 #clear {
     background-color: rgb(255, 216, 48);
 }
-    
+
+.partnership .col.w-50 {
+    background-color: rgb(245, 245, 245);
+}
+
+.partnership .partnership-text {
+    padding: 40px 80px;
+}
+
+.partnership .w-50 .partnership-text img { 
+    height: 50px;
+    padding-bottom: 20px;
+}
+
+.partnership .w-50 .partnership-text hr {
+    width: 40px;
+    height: 1px;
+    background-color: gray;
+    margin-bottom: 40px;
+}
+
+.partnership .w-50 .partnership-text p {
+    font-size: 13px;
+    font-weight: 600;
+    padding-bottom: 80px;
+}
+
+
+/* section5 */
+
+.porta-dropbox {
+    height: 375px;
+    background-color: rgb(180, 208, 231);
+}
+
+.porta-dropbox .container-1000 h2 {
+    font-size: 30px;
+    font-weight: 700;
+    padding: 20px 300px 40px 0;
+}
+
+.porta-dropbox .container-1000 a {
+
+}
+
