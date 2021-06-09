@@ -542,6 +542,8 @@ header nav a {
 
 /* section4 - partnership*/
 
+/* struttura */
+
 .partnership {
     height: 375px;
     margin-top: 80px;
@@ -566,6 +568,7 @@ header nav a {
     
 }
 
+/* partners */
 
 #designit {
     background-color: rgb(162, 211, 155);
@@ -638,6 +641,8 @@ header nav a {
 #clear:hover {
     border: 8px solid rgb(247, 232, 165);
 }
+
+/* Col Centrale */
 
 .partnership .col.w-50 {
     background-color: rgb(245, 245, 245);
