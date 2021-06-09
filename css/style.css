@@ -223,7 +223,17 @@ header .header-navbar li {
     display: inline-block;
     margin: 30px 20px;
     vertical-align: middle;
+    height: 100%;
 }
+
+.hover-line {
+    display: inline-block;
+}
+
+header .header-navbar .hover-line:hover {
+    border-bottom: 3px solid black;
+}
+
 
 header .header-navbar a {
     text-decoration: none;
