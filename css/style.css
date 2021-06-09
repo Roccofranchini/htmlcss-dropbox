@@ -200,9 +200,11 @@ ul .list-icon {
 
 /* -----------------Header----------------- */
 
-header {
-    /* height: 80px;
-    line-height: 80px; */
+header .header-navbar{
+position: fixed;
+z-index: 1;
+background-color: white;
+width: 100%;
 }
 
 #logo {
@@ -210,9 +212,6 @@ header {
     margin: 30px 20px;
 }
 
-header .header-navbar {
-    margin: 0 10px;
-}
 
 header .header-navbar ul {
     list-style-type: none;
