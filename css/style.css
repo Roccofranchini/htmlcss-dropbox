@@ -716,6 +716,8 @@ footer {
     background-color: black;
 }
 
+/* top footer */
+
 footer .container-1200 .top-footer {
     padding-top: 80px;
     padding-bottom: 80px;
@@ -746,6 +748,7 @@ footer .top-footer ul li:hover {
     transform: scale(1.1);
 }
 
+/* bottom footer */
 
 footer hr {
     width: 10%;
