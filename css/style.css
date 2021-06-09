@@ -86,7 +86,7 @@ body {
     border: 1px solid rgb(208, 208, 211);
     border-top: none;
     padding: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     font-size: 12px;
     font-weight: 600;
 }
@@ -231,14 +231,15 @@ header .header-navbar a {
 }
 
 .header-content {
-    height: 680px;
+    height: 750px;
     background-color: rgb(180, 208, 231);
 }
 
 .header-content .jumbotron h1 {
     font-size: 70px;
     font-weight: 700;
-    padding-top: 80px;
+    padding-top: 150px;
+    padding-bottom: 35px;
 }
 
 .header-content .jumbotron p {
@@ -611,6 +612,7 @@ footer .top-footer ul li {
 
 footer hr {
     width: 10%;
+    background-color: white;
 }
 
 footer .language {
