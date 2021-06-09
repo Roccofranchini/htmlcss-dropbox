@@ -18,6 +18,7 @@ body {
 .container-1000 {
     max-width: 1000px;
     margin: 0 auto;
+    padding: 20px 0;
 }
 
 /* col */
@@ -334,11 +335,6 @@ header .header-navbar a {
     font-size: 16px;
     font-weight: 700;
     padding-bottom: 20px;
-}
-
-.col-content .punti-salienti {
-    list-style-type: none;
-    padding: 20px 0;
 }
 
 .col-content .punti-salienti li {
